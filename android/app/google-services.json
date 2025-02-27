@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "886390512554",
+    "project_id": "swapar-69706",
+    "storage_bucket": "swapar-69706.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886390512554:android:e10a08fadc9db86e4d69d3",
+        "android_client_info": {
+          "package_name": "com.swipar.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886390512554-i7pb9s5brpa8tkgrjsf70ldrik6eujh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swipar.app",
+            "certificate_hash": "b0ce43ed0a05c868c88b6a507dcc87f05b49cf4c"
+          }
+        },
+        {
+          "client_id": "886390512554-hnd3gia4g1heekuhel05dtdr57sk72lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcHuSnndvG4Er4iyTPN-6kcqRCTEg15kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886390512554-hnd3gia4g1heekuhel05dtdr57sk72lq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886390512554-e98lqu981b06hvgh7acgp69l5h8qqu2u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.swipar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
